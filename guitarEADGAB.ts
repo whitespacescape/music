@@ -10,7 +10,7 @@ declare module z1{}
 declare module x2{}
 declare module y2{}
 declare module z2{}
-export  function E8E8(){
+export function E8E8(){
    const X = 'x1 - x2' + 'y1-y2' + 'z1-z2'
    const Y = 'x1 + x2' + 'y1-y2' + 'z1-z2'
    const Z = 'x1 + x2' + 'y1+y2' + 'z1-z2'
