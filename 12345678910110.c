@@ -2,17 +2,17 @@
 #include "abcdef.c"
 #define wx
 #define w
-#define ww
+#define ww   
 #define www
 #define wwww
 struct t1t2(){
-int t1,t2;
-float wx;
-int A = 1,int B = 22,int C = 333,int D = 4444;
-int A += [B][C][D]
-int B -= [A][C][D]
-int C *= [A][B][D]
-int D %= [A][B][C]
+      int t1,t2;
+      float wx;
+      int A = 1,int B = 22,int C = 333,int D = 4444;
+      int A += [B][C][D]
+      int B -= [A][C][D]
+      int C *= [A][B][D]
+      int D %= [A][B][C]
 void t1t2(){
         return A * sin(wx + t1) + B * sin(wx - t2)
         return C * cos(wx + t1) + D * cos(wx - t2)
