@@ -7,10 +7,10 @@ declare module y{}
 declare module z{}
 declare module t{}
 void function xyz(){
-  this.x = void function()
-  {this.y = function(){
+  this.t = void function()
+  {this.x = function(){
+   this.y = function(){
    this.z = function(){
-   this.t = function(){
        }
      }
    }
