@@ -15,15 +15,15 @@ export function E8E8(){
    const Y = 'x1 + x2' + 'y1 - y2' + 'z1 - z2'
    const Z = 'x1 + x2' + 'y1 + y2' + 'z1 - z2'
    const T = 'x1 + x2' + 'y1 + y2' + 'z1 + z2'
-void function x1x2(){
+default function x1x2(){
     let x1:any
     let x2:any
 }
-void function y1y2(){
+default function y1y2(){
     let y1:any
     let y2:any
 }
-void function z1z2(){
+default function z1z2(){
     let z1:any
     let z2:any
 }
